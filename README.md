@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Pakistan
-* ✉️  You can contact me at [r.owaisakram@gmail.com](mailto:r.owaisakram@gmail.com)
+* ✉️  You can contact me at <a href="mailto:r.owaisakram@gmail.com" style="color:#0891b2;">r.owaisakram@gmail.com</a>
 * 🧠  I'm learning MERN Stack
 
 ### Skills
